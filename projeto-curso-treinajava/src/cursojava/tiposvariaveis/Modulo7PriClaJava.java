@@ -20,7 +20,7 @@ public class Modulo7PriClaJava {
 		int maiorIdade = 18;
 		int idosoIdade = 60;
 		int jovenIdade = 16;
-		int criancaIdade = 7;
+		int criancaIdade = 4;
 		
 		String cpf = "123.456.789-00";
 		
